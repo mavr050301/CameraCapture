@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe.config
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.exe
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\CameraCapture.pdb
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\DirectShowLib.dll
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\bin\Debug\DirectShowLib.pdb
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\obj\Debug\CameraCapture.MainMenu.resources
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\obj\Debug\CameraCapture.Properties.Resources.resources
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\obj\Debug\CameraCapture.csproj.CopyComplete
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\obj\Debug\CameraCapture.exe
+C:\Users\Asus\Desktop\CameraCapture\CameraCapture\obj\Debug\CameraCapture.pdb
